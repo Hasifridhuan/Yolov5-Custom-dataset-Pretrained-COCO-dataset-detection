@@ -6,3 +6,5 @@ install neccessary environtment requirement
 
 Run main.py as main python file
 
+this repo detect person + weapon , person as COCO dataset and weapon as custom dataset
+
